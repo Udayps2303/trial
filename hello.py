@@ -5,5 +5,6 @@
 
 def hello():
     print(_("Hello, world!"))
+    print("good!")
     
     print(_("Welcome to Django!"))
